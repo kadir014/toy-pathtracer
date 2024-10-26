@@ -1,7 +1,7 @@
 # toy-pathtracer
 This is the playground where I experiment and learn about path tracing 🙃
 
-<img src="https://raw.githubusercontent.com/kadir014/toy-pathtracer/main/thumbnail.png" width=800>
+<img src="https://github.com/kadir014/toy-pathtracer/blob/cafb575dd2b74f1a6565613e4e9e4ae5eb3187fc/thumbnail.png" width=800>
 
 
 
@@ -25,6 +25,7 @@ This is the playground where I experiment and learn about path tracing 🙃
 - [ ] Texture mapping.
 - [ ] Depth of field.
 - [ ] Volumetric rendering.
+- [ ] Denoising.
 - [ ] Learn explicit light sampling, MIS and such.
 
 
